@@ -1,5 +1,6 @@
 /**
  * @file adc.c
+ * @brief functions for the analog to digital converter
  */
 #include "adc.h"
 
